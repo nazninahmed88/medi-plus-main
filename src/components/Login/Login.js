@@ -1,6 +1,6 @@
 import { createUserWithEmailAndPassword, getAuth, sendEmailVerification, sendPasswordResetEmail, signInWithEmailAndPassword, updateProfile } from '@firebase/auth';
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import './Login.css'
 import useAuth from '../../hooks/useAuth';
 
 
@@ -130,10 +130,8 @@ const Login = () => {
                 <button type="button" onClick={handleResetPassword} className="btn btn-secondary btn-sm">Reset Password</button>
 
             </form>
-            <br /><br /><br />
-            <div>--------------------------------</div>
-            <br /><br /><br />
-            <h4 className='bg-warning w-50 pt-2 pb-2  text-center' style={{ cursor: 'pointer' }} onClick={signInUsingGoogle}>Google Sign In</h4>
+            <br />
+            <button className=' sing-btn 'onClick={signInUsingGoogle}>Google Sign In</button>
         </div>
     );
 };

@@ -1,0 +1,7 @@
+.sing-btn{
+    background-color: goldenrod;
+    border: 1px solid gray;
+    padding: 5px;
+    width: 150px;
+    cursor: pointer;
+}

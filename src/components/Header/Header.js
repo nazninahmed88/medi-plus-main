@@ -45,7 +45,7 @@ const Header = () => {
                                     {user.email ?
                                         <button onClick={logOut}>Log Out</button>
                                         :
-                                        <Link className="nav-link" to='/login'><button className='reg-btn'>Register</button></Link>
+                                        <Link className="nav-link" to='/login'><button className='reg-btn'>Login</button></Link>
                                     }
                                 </li>
                             </ul>
