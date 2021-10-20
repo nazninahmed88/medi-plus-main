@@ -1,0 +1,39 @@
+
+[
+    {
+      "id": 1,
+      "name": "PRIMARY HEALTH CARE",
+      "img": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/ts/20160823015907/ri/590/picture/2016/8/Primary_care_shutterstock_144307357.jpg",
+      "description": "Pharmacy is the clinical health science that links medical science with chemistry and it is charged with the discovery, production, disposal, safe and effective use, and control of medications and drugs."
+    },
+    {
+      "id": 2,
+      "name": "GYNEOLOGICAL CLINIC",
+      "img": "https://image.freepik.com/free-vector/gynecology-consultation-concept_23-2148655386.jpg",
+      "description": "The Gynecology Clinic offers care for females from infancy through menopause and annual exams to complex problems including Fibroids, Urogynecology and Young Adult Gynecology."
+    },
+    {
+      "id": 3,
+      "name": "PRECISE DIAGNOSIS",
+      "img": "https://www.paolohospital.com/Resource/Image/Article/30b6337f-6077-422f-980e-2358c60f42bc_cover-page_big-1.jpg",
+      "description": "Precision diagnosis is the accurate and timely explanation of each patients health problem and further requires communication of that explanation to patients and surrogate decision-makers."
+    },
+    {
+      "id": 4,
+      "name": "CARDIAC CLINIC",
+      "img": "https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2019/10/cardiacDocs-1125401691-770x553-650x428.jpg",
+      "description": "The clinic staff helps you understand your current state of cardiovascular health and how you can reduce your risk of cardiovascular disease. The staff in the Cardiovascular Health Clinic works together as a multidisciplinary team to coordinate your care."
+    },
+    {
+      "id": 5,
+      "name": "DENTAL SURGERY",
+      "img": "https://image.freepik.com/free-vector/patient-sitting-medical-chair-during-visit-treatment-isolated-flat-vector-illustration-cartoon-dentist-working-diagnostic-cabinet-stomatology-dental-clinic-concept_74855-13192.jpg",
+      "description": "Dental surgery is any of a number of medical procedures that involve artificially modifying dentition; in other words, surgery of the teeth, gums and jaw bones."
+    },
+    {
+      "id": 6,
+      "name": "REHABILITATION CENTER",
+      "img": "https://image.freepik.com/free-vector/physiotherapy-rehabilitation-people-flat-icons-collection_1284-15880.jpg",
+      "description": "Rehabilitation is care that can help you get back, keep, or improve abilities that you need for daily life. These abilities may be physical, mental, and/or cognitive."
+    }
+  ]
